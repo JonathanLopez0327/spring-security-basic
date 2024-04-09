@@ -1,0 +1,4 @@
+Server -> OAuth2 authorization server
+
+
+Client -> OAuth2 client and resource server
